@@ -1,4 +1,5 @@
-# Breast Cancer: **an end-to-end Machine Learning project**
+# Breast Cancer
+## **An End-To-End Machine Learning Project**
 
 <center>
 <img src='./img.jpg' width='1000'/>
